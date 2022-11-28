@@ -1,0 +1,8 @@
+#img-radius { 
+   border:3px solid #85A0C9; 
+   border-radius: 30px; 
+   background: url('risunok.jpg'); 
+   width: 400px; 
+   height: 300px;
+}
+  
