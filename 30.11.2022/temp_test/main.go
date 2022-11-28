@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"30.11/tempconv"
+	"30.11.2022/tempconv"
 )
 
 func main() {
